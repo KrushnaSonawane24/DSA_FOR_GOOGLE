@@ -1,4 +1,4 @@
-//leetcode problem no 28. Find the Index of the First Occurrence in a String
+//leetcode day_3 first problem stement no 28. Find the Index of the First Occurrence in a String
 
 
 class Solution {

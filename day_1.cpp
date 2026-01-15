@@ -1,4 +1,4 @@
-/*  1266. Minimum Time Visiting All Points*/
+/* leetcode day_1 first problem stement no 1266. Minimum Time Visiting All Points*/
 
 include <iostream>
 using namespace std;

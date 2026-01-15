@@ -1,4 +1,4 @@
-//14. Longest Common Prefix
+//leetcode day_2 first problem stement no 14. Longest Common Prefix
 
 include <iostream>
 using namespace std;
