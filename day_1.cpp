@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 class Solution {
 public:
-    int minTimeToVisitAllPoints(vector<vector<int>>& points) {
+    int minTimeToVisitAllPoints(vector<vector<int>>& points){
        int time = 0 ; 
 
        for (int i = 1 ; i < points.size(); i ++){
