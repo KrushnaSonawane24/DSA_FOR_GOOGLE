@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    int strStr(string s1, string s2) {
+    int strStr(string s1, string s2){
         int n = s1.length();
         int m = s2.length();
 
