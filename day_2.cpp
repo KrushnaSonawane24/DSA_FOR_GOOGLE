@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 class Solution {
 public:
-    string longestCommonPrefix(vector<string>& strs) {
+    string longestCommonPrefix(vector<string>& strs){
         if (strs.size() == 0) return "";
 
         string prefix = strs[0];
